@@ -107,14 +107,6 @@
     "semver": "^4.2.0",
     "yakaa": "^1.0.1"
   },
-  "bundledDependencies": [
-    "concat-stream",
-    "https-proxy-agent",
-    "json-stringify-safe",
-    "readable-stream",
-    "semver",
-    "yakaa"
-  ],
   "devDependencies": {
     "mocha": "*",
     "tap": "0.7.1",
